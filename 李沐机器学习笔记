@@ -1,0 +1,22 @@
+#1.2数据获取
+#ML datasets
+#MNIST:手写
+#ImageNet：图片搜索引擎
+#AudioSet：Youtube声音切片
+#Kinetics：声音数据库
+#KITTI:无人驾驶
+#Amazon Review：Amazon评价
+#SQuAD：Wikipedia
+#LibriSPEECH:1000 hours of audiobooks
+#寻找数据集
+#Paperwithcodes Datasets：
+#Kaggle Datasets：
+#Google dataset search：
+#toolkits datasets：tonsorflow hugging face
+#Open data on AWS:
+#Common crawl：
+#Generate Synthetic data
+#Use GANs
+#Data Augmentations（Back translation）
+#1.3网页数据抓取
+
